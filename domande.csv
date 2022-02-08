@@ -1,0 +1,133 @@
+question,freq,topic
+recettori gaba,5,cellulare
+Rilascio NT,4,cellulare
+p membrana,4,cellulare
+trasporti,3,cellulare
+potenziale d'azione,3,cellulare
+sinapsi inibitorie,2,cellulare
+plasticità activity-dipendent,2,cellulare
+ACh,2,cellulare
+sinapsi elettriche,2,cellulare
+recettori metabotropi,2,cellulare
+famiglie di recettori,1,cellulare
+inibizione shunting,1,cellulare
+ricaptazione NT,1,cellulare
+p equilibrio Cl-,1,cellulare
+circuito rc,1,cellulare
+"esperiemento eccles, kandell..",1,cellulare
+integrazione sinaptica,1,cellulare
+fusi neuromuscolari,1,cellulare
+flussi,1,cellulare
+rilascio quantale NT,1,cellulare
+nmda,1,cellulare
+olio acqua,1,cellulare
+nernst,1,cellulare
+placca neuromusco,1,cellulare
+passive membrana,1,cellulare
+guaina mielinica,1,cellulare
+canali al K+,1,cellulare
+pa neurone e cardio,1,cellulare
+nuclei della base,6,neuro
+vie dolorifiche e target sottoc,4,neuro
+via ottica,4,neuro
+cervelletto,3,neuro
+decorticazione,3,neuro
+decerebrazione,3,neuro
+via uditiva,3,neuro
+parkinson,3,neuro
+eeg in veglia,3,neuro
+riflessi,3,neuro
+plasticità sinaptica,2,neuro
+nucleo olivare superiore,2,neuro
+vie somatosensoriali,2,neuro
+lesioni cerebellari,2,neuro
+barriera ematoencefalica,2,neuro
+struttura corpo genicolato lat e aff,1,neuro
+olfatto,1,neuro
+movimento volontario corteccia,1,neuro
+nucleo cocleare,1,neuro
+influenze sui motoneur spin,1,neuro
+cellule di renshaw,1,neuro
+nistagmo,1,neuro
+equilibrio,1,neuro
+atonia,1,neuro
+retina,1,neuro
+nervi cranici,1,neuro
+minicolonne,1,neuro
+memoria lavoro,1,neuro
+corea di huntington,1,neuro
+mesolimbico,1,neuro
+linguaggio,1,neuro
+complesso k,1,neuro
+corteccia cerebellare,1,neuro
+org corticale movimento,1,neuro
+codice nerv motoneur,1,neuro
+esperimento scimmia,1,neuro
+collicolo,1,neuro
+sonno,1,neuro
+neuroni piramidali,1,neuro
+bilancio recettori (antidepress e ansiol),1,neuro
+vie discendenti,1,neuro
+talamo,1,neuro
+iperalgesia e analgesia,1,neuro
+axon reflex,1,neuro
+somestesia,1,neuro
+campi recettivi,1,neuro
+corteccia ,1,neuro
+inibizione lat,1,neuro
+inibizione cervelletto,1,neuro
+sistema arterioso e venoso,7,cardio
+coronarie,6,cardio
+pressione arteriosa,5,cardio
+filtrazione capillare,4,cardio
+ritorno venoso,3,cardio
+circolazione fetale,3,cardio
+pda del nodo sa,2,cardio
+ciclo cardiaco,2,cardio
+flusso laminare e turbolento,2,cardio
+starling,2,cardio
+onda sfigmica,2,cardio
+profilo di flusso grandi vasi,1,cardio
+"riflesso barocettivo, ipofisi ",1,cardio
+sistema conduzione,1,cardio
+miocardio,1,cardio
+simp e para ,1,cardio
+ecg,1,cardio
+flusso e velocità,1,cardio
+curva pressione-volume,1,cardio
+viscosità,1,cardio
+tubulo contorto prox,2,renale
+clearance glucosio pai creat,2,renale
+ADH,2,renale
+aldosterone,1,renale
+equilibrio idro-salino,1,renale
+controllo renale,1,renale
+riassorbimento idrico,1,renale
+renina ang ald,1,renale
+centro di controllo respirazione,2,respiratorio
+trasporto co2,2,respiratorio
+scambio alveolo capillare,2,respiratorio
+ventilazione/perfusione,2,respiratorio
+curva di rilasci torac-polm,2,respiratorio
+volumi polmonari,1,respiratorio
+flusso d'aria vie aeree,1,respiratorio
+lavoro viscoso,1,respiratorio
+regolazione chimica resp,1,respiratorio
+resp alta quota,1,respiratorio
+consumo o2,1,respiratorio
+cfr,1,respiratorio
+ipofisi(?),1,respiratorio
+trasporto o2,1,respiratorio
+Termoregolazione,3,equilibri
+esercizio fisico,3,equilibri
+acido-base,3,equilibri
+davenport,2,equilibri
+regolazione flusso sanguigno,1,equilibri
+evaporazione,1,equilibri
+quoziente respiratorio,1,equilibri
+fame e sazietà,1,equilibri
+pressione ,1,equilibri
+squilibri metabolici,1,equilibri
+frenoipocapnico alta quota,1,equilibri
+metabolismo,1,equilibri
+secrezione acida stomaco,1,digerente
